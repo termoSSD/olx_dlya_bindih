@@ -1,0 +1,4 @@
+Cheque: 
+Product name: iPhone Price: 750$
+--- Cheque ---
+Mediceine: Aspirin --- 50$

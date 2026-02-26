@@ -134,7 +134,6 @@
     <ClInclude Include="Prom.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Text.txt" />
     <ClInclude Include="shop.h" />
     <ClInclude Include="tabletki.h" />
   </ItemGroup>
