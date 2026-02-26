@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="olx.vcxproj" />
+  <Project Path="olx.vcxproj" Id="ddcba4fb-b8fb-412b-97c5-fb3eea3ee1f4" />
 </Solution>
